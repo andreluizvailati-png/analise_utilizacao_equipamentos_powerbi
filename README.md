@@ -1,11 +1,11 @@
 # 📊 Análise de Utilização de Equipamentos
 
-##<img src="goal.png" width="20"/> Objetivo
+## <img src="goal.png" width="20"/> Objetivo
 Desenvolver um dashboard em Power BI para análise da utilização de equipamentos, permitindo identificar eficiência operacional, ociosidade e padrões de uso ao longo do tempo, além de apoiar a tomada de decisão quanto à necessidade de aquisição de novos equipamentos ou adequação de turnos em períodos de menor utilização.
 
 ---
 
-##<img src="magnifying-glass.png" width="20"/>  Problema de Negócio
+## <img src="magnifying-glass.png" width="20"/>  Problema de Negócio
 A falta de visibilidade sobre a utilização dos equipamentos pode gerar:
 - Ociosidade elevada
 - Má alocação de recursos
@@ -15,7 +15,7 @@ Este dashboard foi desenvolvido para apoiar a tomada de decisão baseada em dado
 
 ---
 
-##<img src="gestao-de-desempenho.png" width="20"/> Indicadores Principais
+## <img src="gestao-de-desempenho.png" width="20"/> Indicadores Principais
 - Horas disponíveis
 - Horas utilizadas
 - Horas ociosas
@@ -25,7 +25,7 @@ Este dashboard foi desenvolvido para apoiar a tomada de decisão baseada em dado
 
 ---
 
-##<img src="analise-de-mercado.png" width="20"/> Análises Realizadas
+## <img src="analise-de-mercado.png" width="20"/> Análises Realizadas
 - Utilização por equipamento
 - Utilização por setor
 - Utilização por atividade
@@ -35,7 +35,7 @@ Este dashboard foi desenvolvido para apoiar a tomada de decisão baseada em dado
 
 ---
 
-##<img src="balao-de-pensamento.png" width="20"/> Principais Insights
+## <img src="balao-de-pensamento.png" width="20"/> Principais Insights
 - Identificação de baixa utilização (ociosidade elevada)
 - Diferença de performance entre equipamentos
 - Variação de uso ao longo dos períodos
@@ -43,7 +43,7 @@ Este dashboard foi desenvolvido para apoiar a tomada de decisão baseada em dado
 
 ---
 
-##<img src="chave-inglesa.png" width="20"/>  Ferramentas Utilizadas
+## <img src="chave-inglesa.png" width="20"/>  Ferramentas Utilizadas
 - Power BI
 - DAX
 - Modelagem de dados
@@ -71,6 +71,6 @@ Este dashboard foi desenvolvido para apoiar a tomada de decisão baseada em dado
 
 ---
 
-##<img src="painel.png" width="20"/> Arquivo
+## <img src="pasta.png" width="20"/> Arquivo
 O arquivo `.pbix` está disponível neste repositório: 
 https://app.powerbi.com/view?r=eyJrIjoiYzQ0NDhjOWMtYjM0My00OTdjLTkzODgtMzcxZjE4Mzg0MGVmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
