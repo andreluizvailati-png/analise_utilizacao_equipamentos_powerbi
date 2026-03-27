@@ -51,7 +51,23 @@ Este dashboard foi desenvolvido para apoiar a tomada de decisão baseada em dado
 ---
 
 ## 📸 Dashboard
-(Adicionar imagens aqui)
+### 🔹 Visão Geral
+![Visão Geral](dashboard_geral.png)
+
+---
+
+### 🔹 Análise por Período
+![Período](analise_periodo.png)
+
+---
+
+### 🔹 Análise por Analista
+![Analista](analise_analista.png)
+
+---
+
+### 🔹 Análise por Setor
+![Setor](Analise_setor.png)
 
 ---
 
