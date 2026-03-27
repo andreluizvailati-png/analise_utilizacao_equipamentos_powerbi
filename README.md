@@ -1,11 +1,12 @@
-# <img src="grafico.png" width="20"/> Análise de Utilização de Equipamentos
+# <img src="grafico.png" width="20"/>   Análise de Utilização de Equipamentos
 
 ## <img src="goal.png" width="20"/> Objetivo
+<p align="justify">
 Desenvolver um dashboard em Power BI para análise da utilização de equipamentos, permitindo identificar eficiência operacional, ociosidade e padrões de uso ao longo do tempo, além de apoiar a tomada de decisão quanto à necessidade de aquisição de novos equipamentos ou adequação de turnos em períodos de menor utilização.
-
+</p>
 ---
 
-## <img src="magnifying-glass.png" width="20"/>  Problema de Negócio
+## <img src="magnifying-glass.png" width="20"/>    Principais Problemas
 A falta de visibilidade sobre a utilização dos equipamentos pode gerar:
 - Ociosidade elevada
 - Má alocação de recursos
@@ -15,17 +16,17 @@ Este dashboard foi desenvolvido para apoiar a tomada de decisão baseada em dado
 
 ---
 
-## <img src="gestao-de-desempenho.png" width="20"/> Indicadores Principais
+## <img src="gestao-de-desempenho.png" width="20"/>   Indicadores
 - Horas disponíveis
 - Horas utilizadas
 - Horas ociosas
-- % de utilização
+- Porcentagem de utilização
 - Ranking por equipamento
 - Análise por analista
 
 ---
 
-## <img src="analise-de-mercado.png" width="20"/> Análises Realizadas
+## <img src="analise-de-mercado.png" width="20"/>   Análises 
 - Utilização por equipamento
 - Utilização por setor
 - Utilização por atividade
@@ -35,7 +36,7 @@ Este dashboard foi desenvolvido para apoiar a tomada de decisão baseada em dado
 
 ---
 
-## <img src="balao-de-pensamento.png" width="20"/> Principais Insights
+## <img src="balao-de-pensamento.png" width="20"/>  Insights
 - Identificação de baixa utilização (ociosidade elevada)
 - Diferença de performance entre equipamentos
 - Variação de uso ao longo dos períodos
