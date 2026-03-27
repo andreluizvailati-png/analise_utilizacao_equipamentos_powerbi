@@ -4,6 +4,7 @@
 <p align="justify">
 Desenvolver um dashboard em Power BI para análise da utilização de equipamentos, permitindo identificar eficiência operacional, ociosidade e padrões de uso ao longo do tempo, além de apoiar a tomada de decisão quanto à necessidade de aquisição de novos equipamentos ou adequação de turnos em períodos de menor utilização.
 </p>
+
 ---
 
 ## <img src="magnifying-glass.png" width="20"/>    Principais Problemas
