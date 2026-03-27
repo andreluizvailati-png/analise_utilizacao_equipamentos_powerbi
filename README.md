@@ -56,4 +56,4 @@ Este dashboard foi desenvolvido para apoiar a tomada de decisão baseada em dado
 ---
 
 ## 📁 Arquivo
-O arquivo `.pbix` está disponível neste repositório.
+O arquivo `.pbix` está disponível neste repositório: https://app.powerbi.com/view?r=eyJrIjoiYzQ0NDhjOWMtYjM0My00OTdjLTkzODgtMzcxZjE4Mzg0MGVmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
